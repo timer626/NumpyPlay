@@ -1,1 +1,21 @@
 venv/
+
+# PyCharm-specific
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller
+dist/
+build/
+*.spec
+*.exe
+
+# Other
+*.log
+*.cache
